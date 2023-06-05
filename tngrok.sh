@@ -56,7 +56,7 @@ while true; do
           exit 0
           ;;
       *)
-          echo "Invalid choice. Please try again..
+          echo "Invalid choice. Please try again.."
           sleep 2
           clear
           ;;
